@@ -31,3 +31,12 @@ console.log(x==y); //false
 
 //ternary operator
 console.log(x>y?x:y); // if true returns x if false returns y
+
+// Logical operators
+// &&(and) ||(or) !(not)
+let a = true;
+let b = false;
+console.log(a && b); // false.
+console.log(a || b); // true. 
+console.log(!a); // false.
+console.log(!b); // true.
