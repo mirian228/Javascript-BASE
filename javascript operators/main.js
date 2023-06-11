@@ -6,4 +6,9 @@ console.log(x-y); // -10
 console.log(x/y); // 0.5
 console.log(x%y); // 10
 console.log(x*y); // 200
-console.log(x**y); // 100000000000000000000
+console.log(5**2); // 25
+
+// Increment/Decrement operators ++ --
+console.log(++x);
+console.log(--y);
+
