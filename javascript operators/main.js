@@ -19,5 +19,15 @@ console.log(x);
 x=x+y; // x+=y same
 console.log(x); // 150
 
-//Relational/comparison operators
-//Always retu rn a boolean value true/false
+//Relational/comparison operators  < > <= >= !=
+//Always return a boolean value true/false
+x=10;
+y=20;
+console.log(x>y); //false
+console.log(x<y); //true
+console.log(x>=y); // false
+console.log(x!=y); // true
+console.log(x==y); //false
+
+//ternary operator
+console.log(x>y?x:y); // if true returns x if false returns y
