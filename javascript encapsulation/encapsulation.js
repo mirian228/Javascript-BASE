@@ -27,3 +27,4 @@ student.setName("Mirian");
 student.setMarks("A");
 console.log(student.getName());
 console.log(student.getMarks());
+
